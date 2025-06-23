@@ -1,15 +1,30 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sai Krishna</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 
 
 ---
 
-- 🔭 I’m currently working on **AI/ML, Full Stack Projects, and Embedded Systems**
-- 🌱 I’m exploring **DevOps**, **Cloud Services**, and **Game Development**
-- 💬 Ask me about **Python, React, Machine Learning, or Microcontrollers**
-- 📫 Reach me at **krishnaksai216@gmail.com**
-- ⚡ Fun fact: I love building systems that connect the physical world with code 🤖📡
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Left Side: Text Section -->
+  <div style="flex: 1 1 250px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>AI/ML, Full Stack Projects, and Embedded Systems</strong></li>
+      <li>🌱 I’m exploring <strong>DevOps</strong>, <strong>Cloud Services</strong>, and <strong>Game Development</strong></li>
+      <li>💬 Ask me about <strong>Python, React, Machine Learning, or Microcontrollers</strong></li>
+      <li>📫 Reach me at <strong>krishnaksai216@gmail.com</strong></li>
+      <li>⚡ Fun fact: I love building systems that connect the physical world with code 🤖📡</li>
+    </ul>
+  </div>
+
+  <!-- Right Side: GIF -->
+  <div style="flex: 0 1 360px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Tech Stack GIF" width="360" style="max-width: 100%; height: auto;" />
+  </div>
+
+</div>
+
 
 ---
 

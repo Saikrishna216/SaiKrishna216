@@ -1,9 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Sai Krishna</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳</h3>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sai Krishna</h1>
+<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikrishna216&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+
 
 ---
 
@@ -32,10 +30,10 @@
 </p>
 
 
-### 🛠️ Languages & Tools
+<details>
+  <summary><h3>🛠️ Languages & Tools</h3></summary>
 
 #### 💻 Programming Languages
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -49,7 +47,6 @@
 </p>
 
 #### 🌐 Web Development
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
@@ -62,7 +59,6 @@
 </p>
 
 #### ⚙️ Backend, Databases & DevOps
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -74,7 +70,6 @@
 </p>
 
 #### 🧠 Data Science & Machine Learning
-
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -84,7 +79,6 @@
 </p>
 
 #### 🖥️ Software & Tools
-
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -96,6 +90,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
 </p>
+
+</details>
+
 
 ---
 
@@ -131,4 +128,4 @@ This README was generated with 💙 using:
 
 ---
 
-✨ *Thanks for visiting! Let’s connect, collaborate, and build something awesome together.* ✨
+✨ *Thanks for visiting!  Let’s connect, collaborate, and build something awesome together.* ✨<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">

@@ -1,29 +1,21 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sai Krishna</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">🚀 Passionate Software Engineer | Tech Explorer | Creative Coder from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30" width="30"></h3>
 
 
 
 ---
+<p>
+  <img align="right" width="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Tech stack animation" />
+</p>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+<ul>
+  <li>🔭 I’m currently working on <strong>AI/ML, Full Stack Projects, and Embedded Systems</strong></li>
+  <li>🌱 I’m exploring <strong>DevOps</strong>, <strong>Cloud Services</strong>, and <strong>Game Development</strong></li>
+  <li>💬 Ask me about <strong>Python, React, Machine Learning, or Microcontrollers</strong></li>
+  <li>📫 Reach me at <strong>krishnaksai216@gmail.com</strong></li>
+  <li>⚡ Fun fact: I love building systems that connect the physical world with code 🤖📡</li>
+</ul>
 
-  <!-- Left Side: Text Section -->
-  <div style="flex: 1 1 250px;">
-    <ul>
-      <li>🔭 I’m currently working on <strong>AI/ML, Full Stack Projects, and Embedded Systems</strong></li>
-      <li>🌱 I’m exploring <strong>DevOps</strong>, <strong>Cloud Services</strong>, and <strong>Game Development</strong></li>
-      <li>💬 Ask me about <strong>Python, React, Machine Learning, or Microcontrollers</strong></li>
-      <li>📫 Reach me at <strong>krishnaksai216@gmail.com</strong></li>
-      <li>⚡ Fun fact: I love building systems that connect the physical world with code 🤖📡</li>
-    </ul>
-  </div>
-
-  <!-- Right Side: GIF -->
-  <div style="flex: 0 1 360px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Tech Stack GIF" width="360" style="max-width: 100%; height: auto;" />
-  </div>
-
-</div>
 
 
 ---
@@ -31,8 +23,14 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.leetcode.com/krishnaksai216" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="http://www.linkedin.com/in/sai-krishna-650082256" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" alt="Linkedin" height="40" width="40" />
+  </a>
+  <a href="https://x.com/saikris170?s=11" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000" alt="X" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sai_.170?igsh=MXh5cWtqeWE1Z2pycA%3D%3D&utm_source=qr" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
@@ -129,18 +127,5 @@
 
 ---
 
-### 🔧 Behind the Scenes
-
-<!--
-This README was generated with 💙 using:
-- https://rahuldkjain.github.io/gh-profile-readme-generator/
-- https://gprm.itsvg.in/
-- Leetcode Card: https://leetcard.jacoblin.cool/
--->
-
-<!-- Optionally add this graph -->
-
-
----
 
 ✨ *Thanks for visiting!  Let’s connect, collaborate, and build something awesome together.* ✨<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
